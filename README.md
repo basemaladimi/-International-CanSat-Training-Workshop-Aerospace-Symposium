@@ -24,5 +24,5 @@ During this workshop, we worked in teams to:
   - Integrate a camera (ESP32-CAM).
   - Assemble all components onto a prototype board.
   - Prepare mass budgets, flight readiness, and collect/analyze flight data.
-![1758032374209](https://github.com/user-attachments/assets/d5da06c4-124e-4cce-a026-e11a74a112bc)
+<img src="https://github.com/user-attachments/assets/d5da06c4-124e-4cce-a026-e11a74a112bc" width="400" /> 
 
