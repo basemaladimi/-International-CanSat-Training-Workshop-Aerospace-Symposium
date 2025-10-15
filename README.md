@@ -29,6 +29,14 @@ During this workshop, we worked in teams to:
   
 ## 🛰️ What I Learned
 
+As a participant, I learned:
+
+  - How to wire and integrate multiple satellite subsystems.
+  - How to program an ESP32 using Arduino IDE.
+  - Basics of telemetry and ground station communication.
+  - How to collect, store, and visualize sensor data from flight tests.
+  - The importance of teamwork in satellite development.
+
 <img src="https://github.com/user-attachments/assets/c726b3de-5a1b-443d-aec7-479b7115c94d" width="300" />
 
 
