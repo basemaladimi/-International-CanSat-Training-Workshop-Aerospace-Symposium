@@ -85,7 +85,7 @@ ________________________________________________________________________________
 ├── Firmware/              # Arduino/ESP32 code for the CanSat
 ├── GUI/                   # Ground station interface for telemetry visualization
 ├── Images/                # Project photos, diagrams, and screenshots
-
+```
 
 ________________________________________________________________________________________________
 
