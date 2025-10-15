@@ -25,6 +25,7 @@ During this workshop, we worked in teams to:
   - Assemble all components onto a prototype board.
   - Prepare mass budgets, flight readiness, and collect/analyze flight data.
   <img src="https://github.com/user-attachments/assets/d5da06c4-124e-4cce-a026-e11a74a112bc" width="400" />
+  
   ________________________________________________________________________________________________
   
 ## 🛰️ What I Learned
