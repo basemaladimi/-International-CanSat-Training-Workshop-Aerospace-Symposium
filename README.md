@@ -1,11 +1,11 @@
 # 🚀 ICESCO International Model Satellite Workshop (CanSat Project) & Aerospace Symposium
-This repository serves as my personal documentation of my participation in the ICESCO International Model Satellite Workshop, where I contributed to building and programming a CanSat (model satellite).
+This repository serves as my personal documentation of my participation in the ICESCO International Model Satellite Workshop & Aerospace Symposium, where I contributed to building and programming a CanSat (model satellite).
 The workshop was organized by ICESCO in Almaty, Kazakhstan, and was supervised by Istanbul Technical University – Space System Design and Testing Laboratory, led by Prof. Alim Rüstem Aslan, Barış Beynek, and Onur Öztekin.
 
 ________________________________________________________________________________________________
 ## Contributors
 - **Basem Alademi** [@basemaladimi](https://github.com/basemaladimi)
-- **Basem Alademi** [@rayis1](https://github.com/rayis1)
+- **Abalwahab Rais** [@rayis1](https://github.com/rayis1)
 ________________________________________________________________________________________________
 ## 📖 About this experience
 During this workshop, we worked in teams to:
