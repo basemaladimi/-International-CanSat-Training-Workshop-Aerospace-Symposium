@@ -84,7 +84,7 @@ ________________________________________________________________________________
 ├── docs/                  # Workshop materials, guides, and documentation
 ├── Firmware/              # Arduino/ESP32 code for the CanSat
 ├── GUI/                   # Ground station interface for telemetry visualization
-├── Images/                # Project photos, diagrams, and screenshots
+├── Photos/                # Photos taken by the Cansat
 ```
 
 ________________________________________________________________________________________________
