@@ -39,6 +39,7 @@ As a participant, I learned:
   - The importance of teamwork in satellite development.
 
 <img src="https://github.com/user-attachments/assets/c726b3de-5a1b-443d-aec7-479b7115c94d" width="300" />
+
   ________________________________________________________________________________________________
   
 ## 📡 Ground Station GUI
