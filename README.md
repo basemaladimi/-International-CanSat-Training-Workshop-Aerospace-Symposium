@@ -1,1 +1,1 @@
-# -International-CanSat-Training-Workshop-Aerospace-Symposium
+# 🚀 ICESCO International Model Satellite Workshop (CanSat Project) & Aerospace Symposium
