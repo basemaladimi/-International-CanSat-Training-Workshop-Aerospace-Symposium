@@ -39,11 +39,13 @@ As a participant, I learned:
 
 <img src="https://github.com/user-attachments/assets/c726b3de-5a1b-443d-aec7-479b7115c94d" width="300" />
   ________________________________________________________________________________________________
+  
 ## 📡 Ground Station GUI
 
 We developed an enhanced ground station interface named "SatRiders CanSat Ground Station" for the event. This GUI provides real-time telemetry visualization and mission control capabilities:
 
-<img src="https://github.com/user-attachments/assets/63c7d9e5-b0c0-4404-9290-3c9ed6fa438f" width="300" />
+
+![1758032374638 (1)](https://github.com/user-attachments/assets/c9e34ecc-28ec-49b0-8b17-e617f4f71398)
 
 
 
