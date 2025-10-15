@@ -47,7 +47,61 @@ We developed an enhanced ground station interface named "SatRiders CanSat Ground
 
 ![1758032374638 (1)](https://github.com/user-attachments/assets/c9e34ecc-28ec-49b0-8b17-e617f4f71398)
 
+Key features of our ground station interface:
 
+  - **Mission Status Monitoring:** Real-time tracking of launch phase, flight time, and event logging
+  - **Telemetry Visualization:** Multiple data panels displaying:
+    - Altitude and vertical velocity
+    - Temperature readings
+    - GPS location with map integration
+    - Barometric pressure
+    - 3D acceleration
+  - **System Status Indicators:** Signal strength, descent rate, and packet reception monitoring
+  - **Data Recording:** CSV logging with timestamp functionality
+  - **Real-time Graphing:** Visual plots of altitude, pressure, temperature, velocity, and acceleration
+  - **GPS Tracking:** Map-based position visualization using OpenStreetMap integration
+The ground station establishes communication with the CanSat through wireless telemetry, providing comprehensive flight data monitoring and analysis capabilities.
+________________________________________________________________________________________________
+
+## 📂 Repository Purpose
+
+This repo is a personal archive of my participation. It contains:
+
+  - 📑 Workshop materials and documentation (docs/)
+  - 💻 CanSat firmware and Arduino code (Firmware/)  
+  - 🖥️ Ground station graphical user interface (GUI/)
+  - 📸 Project photos and diagrams (Images/)
+________________________________________________________________________________________________
+
+## 📂 Structure
+
+
+ICESCO-CanSat-Workshop/
+├── README.md              # This file
+├── docs/                  # Workshop materials, guides, and documentation
+├── Firmware/              # Arduino/ESP32 code for the CanSat
+├── GUI/                   # Ground station interface for telemetry visualization
+├── Images/                # Project photos, diagrams, and screenshots
+└── LICENSE
+
+________________________________________________________________________________________________
+
+## 📂 Results
+
+  - Received a shield award for successful launch and operation.
+  - Launched and recovered a fully functional CanSat.
+  - Improved skills in embedded systems and telemetry.
+
+<img width="331" height="184" alt="image" src="https://github.com/user-attachments/assets/7fc0aa6e-760b-498e-b380-828715a743bc" />  <img width="210" height="164" alt="image" src="https://github.com/user-attachments/assets/973b92a3-02b8-4dd0-9ffa-1f226b0167f5" />  <img width="165" height="179" alt="image" src="https://github.com/user-attachments/assets/96f05f02-3249-44ea-889d-978529a95201" />   <img width="161" height="179" alt="image" src="https://github.com/user-attachments/assets/49112410-617a-46c8-a185-59e41d079022" />
+
+________________________________________________________________________________________________
+
+## 📡 Launch Video 
+
+
+
+
+https://github.com/user-attachments/assets/3d17ab99-5851-401a-bf07-18f1ec8423b9
 
 
 
